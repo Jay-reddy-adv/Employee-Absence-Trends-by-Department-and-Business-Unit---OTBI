@@ -42,6 +42,16 @@
 ---> Org Development Leaders
 
 
+**📱 SNAPSHOTS OF THE REPORT**
+
+
+![img_alt](https://github.com/Jay-reddy-adv/Employee-Absence-Trends-by-Department-and-Business-Unit---OTBI/blob/f784c3ec61f43ac2bf893c6d37e2171df065e8e4/Title.png)
+
+
+ ![img_alt](https://github.com/Jay-reddy-adv/Employee-Absence-Trends-by-Department-and-Business-Unit---OTBI/blob/f784c3ec61f43ac2bf893c6d37e2171df065e8e4/Table.png)
+
+
+
 
 
 
