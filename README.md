@@ -47,8 +47,7 @@
 
 ![img_alt](https://github.com/Jay-reddy-adv/Employee-Absence-Trends-by-Department-and-Business-Unit---OTBI/blob/f784c3ec61f43ac2bf893c6d37e2171df065e8e4/Title.png)
 
-
- ![img_alt](https://github.com/Jay-reddy-adv/Employee-Absence-Trends-by-Department-and-Business-Unit---OTBI/blob/f784c3ec61f43ac2bf893c6d37e2171df065e8e4/Table.png)
+![img_alt](https://github.com/Jay-reddy-adv/Employee-Absence-Trends-by-Department-and-Business-Unit---OTBI/blob/8da6cc3ad790c1691f2e5b04304d1dd5c680a2e7/Table.png)
 
 
 
