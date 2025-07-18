@@ -2,44 +2,44 @@
 **This OTBI report provides a department-wise breakdown of employee absences across multiple Business Units and Organizations over time. It is designed to help HR and workforce planning teams identify trends and monitor employee absence counts, year-over-year, for each department.**
 
 
-**📊 Subject Area**
+**📌 Subject Area**
 
----> Workforce Management – Absence Real Time
+🔹 Workforce Management – Absence Real Time
 
 **📋 Columns Included**
 
----> Business Unit Name
+🔹 Business Unit Name
 
----> Organization Name
+🔹 Organization Name
 
---->Department Name
+🔹 Department Name
 
----> #Of Absences (renamed as Number of Absences)
+🔹 #Of Absences (renamed as Number of Absences)
 
----> Calendar Year
+🔹 Calendar Year
 
 **📈 Use Cases**
 
----> Year-over-year absence analysis by department
+🔹 Year-over-year absence analysis by department
 
----> Identifying departments with high absenteeism
+🔹 Identifying departments with high absenteeism
 
----> Planning staffing or backfill needs
+🔹 Planning staffing or backfill needs
 
----> Supporting workforce health and wellness reporting
+🔹 Supporting workforce health and wellness reporting
 
 
 **🔐 Access & Security**
 
 **Recommended Roles:**
 
----> HR Analysts
+✔️ HR Analysts
 
----> Workforce Planning Team
+✔️ Workforce Planning Team
 
----> HR Business Partners
+✔️ HR Business Partners
 
----> Org Development Leaders
+✔️ Org Development Leaders
 
 
 **📱 SNAPSHOTS OF THE REPORT**
